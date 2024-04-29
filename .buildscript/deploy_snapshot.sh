@@ -1,4 +1,4 @@
-#!/bin/bash
+psiphon pro v393 #!/bin/bash
 #
 # Deploy a jar, source jar, and javadoc jar to Sonatype's snapshot repo.
 #
